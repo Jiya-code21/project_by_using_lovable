@@ -1,2 +1,1 @@
-# project_by_using_lovable
-This repo contain project using ai .
+https://career-compass-reader.lovable.app
