@@ -14,10 +14,11 @@ This repo lists all the projects I’ve made this way — fast, functional, and 
 
  🛠️ Projects
 
-| Project Name               | Description                                           | Live Link                                                |
-|---------------------------|-------------------------------------------------------|-----------------------------------------------------------|
+| Project Name               | Description                                           | Live Link                                                  |
+|---------------------------|-------------------------------------------------------|-------------------------------------------------------------|
 | 🧭 Career Compass Reader   | A clean, distraction-free Pomodoro timer for focus.  | [Visit Project](https://career-compass-reader.lovable.app) |
-| 🌈 Mood Array Explorer     | Visualize your mood across time using emojis.        | [Visit Project](https://mood-array-explorer.lovable.app/) |
+| 🌈 Mood Array Explorer     | Visualize your mood across time using emojis.        | [Visit Project](https://mood-array-explorer.lovable.app/)  |
+| 📝 AI to Humanize       |Bringing AI UI ideas to life — fast, creative, and human.| [Visit Project](https://text-scribe-verify-flow.lovable.app/) |
 
 
 📌 About Me
@@ -30,4 +31,3 @@ This repo lists all the projects I’ve made this way — fast, functional, and 
 💡 More Coming Soon!
 
 I’ll keep updating this repository as I build more mini-projects using Lovable. These are quick builds that start from simple ideas and turn into real apps — all within an hour. Feel free to check them out and drop feedback! 💬
-
