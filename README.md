@@ -19,6 +19,7 @@ This repo lists all the projects I’ve made this way — fast, functional, and 
 | 🧭 Career Compass Reader   | A clean, distraction-free Pomodoro timer for focus.  | [Visit Project](https://career-compass-reader.lovable.app) |
 | 🌈 Mood Array Explorer     | Visualize your mood across time using emojis.        | [Visit Project](https://mood-array-explorer.lovable.app/)  |
 | 📝 AI to Humanize       |Bringing AI UI ideas to life — fast, creative, and human.| [Visit Project](https://text-scribe-verify-flow.lovable.app/) |
+| 💼 Job Portal Backend Flow | Simple job backend workflow — role selection to hiring.    | [Visit Project](https://job-portal-backend-flow.lovable.app)    |
 
 
 📌 About Me
