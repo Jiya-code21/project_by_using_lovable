@@ -4,7 +4,7 @@ Hi, I’m Jiya – a passionate B.Tech CSE student at GLA University, building b
 
 This repository contains a growing list of projects I’ve created using Lovable — quick builds, creative ideas, and fun UI experiments that I turn into working apps within 30–60 minutes during my free time. 🌟
 
-
+ 
 💭 Why Lovable?
 
 Is it good to code from scratch? Absolutely — but sometimes, when a random idea strikes, **speed matters** more than setup! Instead of spending hours on boilerplate code, I use Lovable and just describe the idea as a prompt — and boom 💥 — the UI is generated, editable, and ready to ship!
