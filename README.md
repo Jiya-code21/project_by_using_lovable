@@ -21,6 +21,7 @@ This repo lists all the projects I’ve made this way — fast, functional, and 
 | 📝 AI to Humanize       |Bringing AI UI ideas to life — fast, creative, and human.| [Visit Project](https://text-scribe-verify-flow.lovable.app/) |
 | 💼 Job Portal Backend Flow | Simple job backend workflow — role selection to hiring.    | [Visit Project](https://job-portal-backend-flow.lovable.app)    |
 |🔍 Job Hunter Insight       |	A dashboard-like app to match jobs & insights for seekers.|	[Visit Project](https://job-hunter-insight.lovable.app/)|
+| 🐝 Green Hive Design Hub    | A clean, eco-friendly marketplace design concept.          | [Visit Project](https://green-hive-design-hub.lovable.app/)     |
 
 
 
