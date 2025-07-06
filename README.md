@@ -10,7 +10,7 @@ This repository contains a growing list of projects I’ve created using Lovable
 Is it good to code from scratch? Absolutely — but sometimes, when a random idea strikes, **speed matters** more than setup! Instead of spending hours on boilerplate code, I use Lovable and just describe the idea as a prompt — and boom 💥 — the UI is generated, editable, and ready to ship!
 
 This repo lists all the projects I’ve made this way — fast, functional, and fun.
-
+  
 
  🛠️ Projects
 
