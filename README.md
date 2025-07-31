@@ -1,6 +1,6 @@
 🚀 Lovable Projects Showcase by Jiya Agrawal (Me)
 
-Hi, I’m Jiya – a passionate B.Tech CSE student at GLA University, building beautiful and interactive frontend apps using [Lovable](https://lovable.so) (a no-code UI editor) ✨.
+Hi, I’m Jiya Agrawal – a passionate B.Tech CSE student at GLA University, building beautiful and interactive frontend apps using [Lovable](https://lovable.so) (a no-code UI editor) ✨.
 
 This repository contains a growing list of projects I’ve created using Lovable — quick builds, creative ideas, and fun UI experiments that I turn into working apps within 30–60 minutes during my free time. 🌟
 
